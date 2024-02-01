@@ -7,4 +7,4 @@
 #### - Add CSS animations
 #### - Add a footer
 
-#### Check live preview [here](https://lythzz.github.io/restaurant-site/)
+#### Check live preview [here](https://lythzz.github.io/restaurant-page/)
