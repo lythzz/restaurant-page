@@ -1,0 +1,25 @@
+.container{
+    width: 40%;
+    background-color: white;
+    margin: 4% 0;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border-radius: 10px;
+    max-height: 95%;
+}
+.imgContainer img{
+    width: 40%;
+    border-radius: 50%;
+}
+.title{
+    font: normal 3rem Great Vibes;
+    line-height: 0.6;
+}
+.title span{
+    font: italic 1.5rem Montserrat;
+    line-height: 0.3;
+}
+#homeText{
+    font-size: 1.5rem;
+}
